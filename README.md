@@ -216,5 +216,5 @@ To improve reliability:
 
 ---
 
-# 👨‍💻 Author
+
 
